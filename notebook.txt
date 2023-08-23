@@ -1,0 +1,6 @@
+contoh function dot upper, pokoknya ada dotnya yang ada fungsinya contoh upper untuk membesarkan huruf
+indentasi adalah spasi tab untuk fungsi, for, while
+global adalah variabel yang bisa dipanggil dimana pun sedangkan local hanya bisa dipanggil di skop tertentu
+list dan tuple menggunakan index namun dictionary menggunakan key contoh:
+list[0], tuple [0], dict ['key']
+pop digunakan untuk objek dalam bentuk list
